@@ -224,6 +224,12 @@
       "timestamp": "2026-10-04T10:12:05.086Z",
       "target": "ridho",
       "role": "reseller"
+    },
+    {
+      "id": "8803e7c2-5964-4e48-871c-379da08e76d6",
+      "action": "LOGIN",
+      "actor": "ridho",
+      "timestamp": "2026-10-04T10:13:16.532Z"
     }
   ]
 }
