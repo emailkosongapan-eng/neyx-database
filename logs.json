@@ -111,6 +111,13 @@
       "actor": "apanzxc",
       "timestamp": "2026-10-04T04:27:08.998Z",
       "target": "8806919473"
+    },
+    {
+      "id": "00bd2b8a-64a0-421a-b1f1-2a8d807bb596",
+      "action": "DELETE_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-04T04:27:16.928Z",
+      "target": "8746359347"
     }
   ]
 }
