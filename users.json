@@ -1,1 +1,11 @@
-[]
+{
+  "users": [
+    {
+      "username": "apanzxc",
+      "passwordHash": "scrypt$cb571e8650b987296bdcad2bb93e614f$6566b0d93809365ffef65ef236915bb54a9719bc52336a3488184543d570dea24ab0f70b22947884ec026d4a4bc7d17b0f01950d3ec55e63b03b14b75d2ef968",
+      "role": "creator",
+      "active": true,
+      "createdAt": "2026-10-04T01:27:45.775Z"
+    }
+  ]
+}
