@@ -11,6 +11,13 @@
       "action": "LOGIN",
       "actor": "apanzxc",
       "timestamp": "2026-10-04T03:18:14.291Z"
+    },
+    {
+      "id": "f8e60c9c-fbc5-45cc-9a5e-f465553188f1",
+      "action": "ADD_TOKEN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-04T03:26:38.162Z",
+      "tokenMasked": "89511963…"
     }
   ]
 }
