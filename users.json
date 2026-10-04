@@ -21,7 +21,8 @@
       "role": "reseller",
       "active": true,
       "createdAt": "2026-10-04T10:12:03.810Z",
-      "createdBy": "8042378125"
+      "createdBy": "8042378125",
+      "tokensAdded": 1
     }
   ]
 }
