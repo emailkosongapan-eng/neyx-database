@@ -269,6 +269,13 @@
       "action": "LOGIN",
       "actor": "apanzxc",
       "timestamp": "2026-10-04T23:09:15.535Z"
+    },
+    {
+      "id": "4bebc95c-8d1f-4b1f-adb5-86b46e611d75",
+      "action": "ADD_TOKEN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-04T23:10:05.025Z",
+      "tokenMasked": "87887267…"
     }
   ]
 }
