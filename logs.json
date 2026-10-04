@@ -244,6 +244,12 @@
       "actor": "8042378125",
       "timestamp": "2026-10-04T10:16:49.351Z",
       "tokenMasked": "87379709…"
+    },
+    {
+      "id": "70cfc227-03d3-4146-ab9e-b21c9dcf7dab",
+      "action": "LOGIN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-04T22:34:44.531Z"
     }
   ]
 }
