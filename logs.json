@@ -97,6 +97,13 @@
       "actor": "apanzxc",
       "timestamp": "2026-10-04T04:26:52.948Z",
       "tokenMasked": "89511963…"
+    },
+    {
+      "id": "ea1bdf14-658d-40cc-8bc2-392793bb6f20",
+      "action": "DELETE_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-04T04:27:00.120Z",
+      "target": "tes"
     }
   ]
 }
