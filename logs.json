@@ -118,6 +118,14 @@
       "actor": "apanzxc",
       "timestamp": "2026-10-04T04:27:16.928Z",
       "target": "8746359347"
+    },
+    {
+      "id": "c549fc7a-8e06-4667-9d07-92ac53ba899e",
+      "action": "ADD_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-04T04:27:33.820Z",
+      "target": "8806919473",
+      "role": "owner"
     }
   ]
 }
