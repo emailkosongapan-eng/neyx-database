@@ -216,6 +216,14 @@
       "action": "LOGIN",
       "actor": "8042378125",
       "timestamp": "2026-10-04T10:11:38.178Z"
+    },
+    {
+      "id": "81e75167-8b0e-4855-9dc9-fee0c39f082b",
+      "action": "ADD_USER",
+      "actor": "8042378125",
+      "timestamp": "2026-10-04T10:12:05.086Z",
+      "target": "ridho",
+      "role": "reseller"
     }
   ]
 }
