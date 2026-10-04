@@ -6,6 +6,14 @@
       "role": "creator",
       "active": true,
       "createdAt": "2026-10-04T01:27:45.775Z"
+    },
+    {
+      "username": "8806919473",
+      "passwordHash": "scrypt$b2fb861fe125200b145706100b80f3d3$658a7df7ee57d0c3e77171f314f1656fa6a6f7146dade20b018b9961a87c26b382cc9e8b088bf72743b3214b835b4db864032213cc077540b5ad105794e75b3a",
+      "role": "owner",
+      "active": true,
+      "createdAt": "2026-10-04T04:27:32.213Z",
+      "createdBy": "apanzxc"
     }
   ]
 }
