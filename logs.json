@@ -156,6 +156,13 @@
       "action": "LOGIN",
       "actor": "apanzxc",
       "timestamp": "2026-10-04T04:40:33.625Z"
+    },
+    {
+      "id": "eca854e8-57c8-4e5e-af7b-c53112c0f9be",
+      "action": "DELETE_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-04T04:40:46.184Z",
+      "target": "8806919473"
     }
   ]
 }
