@@ -14,6 +14,14 @@
       "active": true,
       "createdAt": "2026-10-04T09:02:58.603Z",
       "createdBy": "apanzxc"
+    },
+    {
+      "username": "ridho",
+      "passwordHash": "scrypt$8bc9fd2e37ccffebd0e01b941374584e$a3c496a76c40134681c468ab29893e142fddaef340b7d0493dfb65f76b285a912723944d4934ae6c23cf1054e5538e4d1d598b674bd1ec02b3ab354bf7822a20",
+      "role": "reseller",
+      "active": true,
+      "createdAt": "2026-10-04T10:12:03.810Z",
+      "createdBy": "8042378125"
     }
   ]
 }
