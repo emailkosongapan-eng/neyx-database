@@ -14,6 +14,14 @@
       "active": true,
       "createdAt": "2026-10-04T03:27:40.243Z",
       "createdBy": "apanzxc"
+    },
+    {
+      "username": "8806919473",
+      "passwordHash": "scrypt$0c89be60b97853a89939abdd55f7d08b$70cce87280feaa0bd14fd289f6805f8b90d5555d415abbeaf11514216988ff6c724a5f51fedd2cef31255ca5ccf1ce335f9c1e495feae87988a767928e3706ee",
+      "role": "reseller",
+      "active": true,
+      "createdAt": "2026-10-04T04:14:06.814Z",
+      "createdBy": "apanzxc"
     }
   ]
 }
