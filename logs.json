@@ -18,6 +18,14 @@
       "actor": "apanzxc",
       "timestamp": "2026-10-04T03:26:38.162Z",
       "tokenMasked": "89511963…"
+    },
+    {
+      "id": "aa553140-954a-4f91-bcd2-a64697512e5a",
+      "action": "ADD_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-04T03:27:41.489Z",
+      "target": "8746359347",
+      "role": "creator"
     }
   ]
 }
