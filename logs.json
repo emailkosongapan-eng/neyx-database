@@ -1,1 +1,10 @@
-[]
+{
+  "logs": [
+    {
+      "id": "ed69e994-1c95-4d54-b7b7-2de48eba1dd3",
+      "action": "LOGIN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-04T01:41:28.831Z"
+    }
+  ]
+}
