@@ -64,6 +64,14 @@
       "action": "LOGIN",
       "actor": "apanzxc",
       "timestamp": "2026-10-04T04:14:38.018Z"
+    },
+    {
+      "id": "1f11fb49-18e7-4df3-80b5-56487559efee",
+      "action": "ADD_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-04T04:15:18.266Z",
+      "target": "tes",
+      "role": "owner"
     }
   ]
 }
