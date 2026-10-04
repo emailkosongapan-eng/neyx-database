@@ -90,6 +90,13 @@
       "action": "LOGIN",
       "actor": "apanzxc",
       "timestamp": "2026-10-04T04:26:41.170Z"
+    },
+    {
+      "id": "9100c829-5502-401e-91ff-326f499b7779",
+      "action": "DELETE_TOKEN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-04T04:26:52.948Z",
+      "tokenMasked": "89511963…"
     }
   ]
 }
