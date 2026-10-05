@@ -359,6 +359,13 @@
       "actor": "ridho",
       "timestamp": "2026-10-05T09:48:36.084Z",
       "tokenMasked": "88562151…"
+    },
+    {
+      "id": "59aa3b6d-788a-4fb2-9576-e917a78eb1f7",
+      "action": "ADD_TOKEN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-05T11:37:56.861Z",
+      "tokenMasked": "89914980…"
     }
   ]
 }
