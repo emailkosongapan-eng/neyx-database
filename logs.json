@@ -289,6 +289,13 @@
       "actor": "8042378125",
       "timestamp": "2026-10-05T04:59:59.467Z",
       "tokenMasked": "88402218…"
+    },
+    {
+      "id": "032b4063-876d-4542-b9f5-b6174680df36",
+      "action": "ADD_TOKEN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-05T08:53:37.492Z",
+      "tokenMasked": "83059101…"
     }
   ]
 }
