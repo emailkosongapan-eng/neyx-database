@@ -339,6 +339,13 @@
       "timestamp": "2026-10-05T09:15:08.841Z",
       "target": "MIKELz",
       "role": "creator"
+    },
+    {
+      "id": "e6b0b65e-93ea-41fa-95ad-736b6139b366",
+      "action": "ADD_TOKEN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-05T09:17:59.698Z",
+      "tokenMasked": "88870286…"
     }
   ]
 }
