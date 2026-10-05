@@ -31,14 +31,6 @@
       "active": true,
       "createdAt": "2026-10-05T09:13:57.278Z",
       "createdBy": "8042378125"
-    },
-    {
-      "username": "MIKELz",
-      "passwordHash": "scrypt$4118a163777907cd2a78f2aa5fc9960a$d95bb02e6812848729ba9904453d01f6d9b51ae03d662637a1be3139bd7352b2d1b1c15cd91c4e6ea05cd4f10617a3bde0ed594b8f978a5cb2b64603e391ff77",
-      "role": "owner",
-      "active": true,
-      "createdAt": "2026-10-05T09:14:23.282Z",
-      "createdBy": "8042378125"
     }
   ]
 }
