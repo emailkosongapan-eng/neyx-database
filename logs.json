@@ -324,6 +324,13 @@
       "timestamp": "2026-10-05T09:14:24.772Z",
       "target": "MIKELz",
       "role": "owner"
+    },
+    {
+      "id": "4c703dbd-6b96-47a6-ad86-3d5e22bec1e3",
+      "action": "DELETE_USER",
+      "actor": "8042378125",
+      "timestamp": "2026-10-05T09:14:50.868Z",
+      "target": "MIKELz"
     }
   ]
 }
