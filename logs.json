@@ -316,6 +316,14 @@
       "timestamp": "2026-10-05T09:13:58.850Z",
       "target": "8319814483",
       "role": "reseller"
+    },
+    {
+      "id": "8a65606e-27e2-41b3-979e-e62521e3361f",
+      "action": "ADD_USER",
+      "actor": "8042378125",
+      "timestamp": "2026-10-05T09:14:24.772Z",
+      "target": "MIKELz",
+      "role": "owner"
     }
   ]
 }
