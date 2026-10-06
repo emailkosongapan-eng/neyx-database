@@ -366,6 +366,12 @@
       "actor": "apanzxc",
       "timestamp": "2026-10-05T11:37:56.861Z",
       "tokenMasked": "89914980…"
+    },
+    {
+      "id": "2588ecd6-40a9-476c-8dcc-499d5f574341",
+      "action": "LOGIN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-06T07:57:57.908Z"
     }
   ]
 }
