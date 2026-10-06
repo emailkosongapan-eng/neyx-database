@@ -386,6 +386,14 @@
       "action": "LOGIN",
       "actor": "mikelz",
       "timestamp": "2026-10-06T13:10:16.178Z"
+    },
+    {
+      "id": "869faac1-0e3b-448b-a93d-51bd6365f385",
+      "action": "ADD_USER",
+      "actor": "mikelz",
+      "timestamp": "2026-10-06T13:10:39.419Z",
+      "target": "mekszxz",
+      "role": "reseller"
     }
   ]
 }
