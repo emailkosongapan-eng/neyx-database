@@ -419,6 +419,13 @@
       "action": "LOGIN",
       "actor": "mikelz",
       "timestamp": "2026-10-07T13:48:40.414Z"
+    },
+    {
+      "id": "4b8e313b-04ed-4425-a1eb-c3dd7c72fb4b",
+      "action": "ADD_TOKEN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-07T14:13:59.058Z",
+      "tokenMasked": "89225127…"
     }
   ]
 }
