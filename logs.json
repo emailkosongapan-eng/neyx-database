@@ -400,6 +400,13 @@
       "action": "LOGIN",
       "actor": "mikelz",
       "timestamp": "2026-10-07T06:35:33.200Z"
+    },
+    {
+      "id": "5c57e3f9-2574-46c8-a19d-09ee443908ad",
+      "action": "ADD_TOKEN",
+      "actor": "mikelz",
+      "timestamp": "2026-10-07T06:35:41.896Z",
+      "tokenMasked": "88870286…"
     }
   ]
 }
