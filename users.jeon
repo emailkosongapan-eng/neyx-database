@@ -29,7 +29,8 @@
       "role": "reseller",
       "active": true,
       "createdAt": "2026-10-08T07:48:14.253Z",
-      "createdBy": "apanzxc"
+      "createdBy": "apanzxc",
+      "tokensAdded": 1
     },
     {
       "username": "ridho",
