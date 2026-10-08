@@ -459,6 +459,12 @@
       "timestamp": "2026-10-08T07:48:15.757Z",
       "target": "8962476102",
       "role": "reseller"
+    },
+    {
+      "id": "0b3e5898-1cdb-459b-af2d-6a1335008c3d",
+      "action": "LOGIN",
+      "actor": "8962476102",
+      "timestamp": "2026-10-08T07:51:31.173Z"
     }
   ]
 }
