@@ -501,6 +501,13 @@
       "actor": "apanzxc",
       "timestamp": "2026-10-08T10:31:30.189Z",
       "tokenMasked": "84961217…"
+    },
+    {
+      "id": "2c263a6d-9a79-414d-b6d6-c237f75ea3cd",
+      "action": "ADD_TOKEN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-08T11:28:22.946Z",
+      "tokenMasked": "89451379…"
     }
   ]
 }
