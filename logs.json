@@ -465,6 +465,14 @@
       "action": "LOGIN",
       "actor": "8962476102",
       "timestamp": "2026-10-08T07:51:31.173Z"
+    },
+    {
+      "id": "1c09ac86-65b2-466e-b092-8a763a61ab2d",
+      "action": "ADD_USER",
+      "actor": "mikelz",
+      "timestamp": "2026-10-08T07:57:17.376Z",
+      "target": "ridho",
+      "role": "reseller"
     }
   ]
 }
