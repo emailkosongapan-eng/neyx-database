@@ -451,6 +451,14 @@
       "action": "LOGIN",
       "actor": "apanzxc",
       "timestamp": "2026-10-08T07:47:53.198Z"
+    },
+    {
+      "id": "16f515d5-b068-4044-ba08-27f9748f0633",
+      "action": "ADD_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-08T07:48:15.757Z",
+      "target": "8962476102",
+      "role": "reseller"
     }
   ]
 }
