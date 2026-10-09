@@ -535,6 +535,12 @@
       "actor": "apanzxc",
       "timestamp": "2026-10-09T03:51:35.168Z",
       "tokenMasked": "88530891…"
+    },
+    {
+      "id": "d30b69f2-3c85-4caa-ac65-7fa11056ebed",
+      "action": "LOGIN",
+      "actor": "ridho",
+      "timestamp": "2026-10-09T05:02:20.063Z"
     }
   ]
 }
