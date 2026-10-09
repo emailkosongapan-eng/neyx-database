@@ -614,6 +614,15 @@
       "role": "reseller",
       "telegramId": "-",
       "telegramUsername": "Tidak tersedia"
+    },
+    {
+      "id": "f9091289-53e0-4465-9509-28164c2104a9",
+      "action": "ADD_TOKEN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-09T07:21:05.176Z",
+      "tokenMasked": "88870286…",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
