@@ -95,7 +95,8 @@
       "role": "reseller",
       "active": true,
       "createdAt": "2026-10-09T10:01:38.597Z",
-      "createdBy": "mikelganteng"
+      "createdBy": "mikelganteng",
+      "tokensAdded": 1
     }
   ]
 }
