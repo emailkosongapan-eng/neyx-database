@@ -832,6 +832,15 @@
       "tokenMasked": "89533838…",
       "telegramId": "-",
       "telegramUsername": "Tidak tersedia"
+    },
+    {
+      "id": "d3453553-7980-4528-980c-de28d4fb335b",
+      "action": "ADD_TOKEN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-09T14:37:12.996Z",
+      "tokenMasked": "86279057…",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
