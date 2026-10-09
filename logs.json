@@ -581,6 +581,13 @@
       "action": "LOGIN",
       "actor": "8944890162",
       "timestamp": "2026-10-09T06:03:55.998Z"
+    },
+    {
+      "id": "6941b94b-4a6f-4f30-8dc4-7a5c92594d1f",
+      "action": "ADD_TOKEN",
+      "actor": "8944890162",
+      "timestamp": "2026-10-09T06:05:21.564Z",
+      "tokenMasked": "89195851…"
     }
   ]
 }
