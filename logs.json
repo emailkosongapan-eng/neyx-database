@@ -795,6 +795,16 @@
       "actor": "mikelganteng",
       "timestamp": "2026-10-09T12:50:08.686Z",
       "target": "1430472796"
+    },
+    {
+      "id": "644c5c79-ba57-4f1f-a108-6dbc86bbf7d0",
+      "action": "ADD_USER",
+      "actor": "mikelganteng",
+      "timestamp": "2026-10-09T12:50:22.016Z",
+      "target": "1430472796",
+      "role": "creator",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
