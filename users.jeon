@@ -40,6 +40,14 @@
       "createdAt": "2026-10-08T07:57:15.925Z",
       "createdBy": "mikelz",
       "tokensAdded": 4
+    },
+    {
+      "username": "8944890162",
+      "passwordHash": "scrypt$5116200a858876fd396027ec3fee4448$504498514554d31121eab137321777a95adac87fb6d59c5cd070b0483f8c6171ee096f0b515e4f796806ed39431b669d23c625d27924f1310c72b0eed1b63945",
+      "role": "creator",
+      "active": true,
+      "createdAt": "2026-10-09T05:31:42.974Z",
+      "createdBy": "mikelz"
     }
   ]
 }
