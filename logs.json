@@ -648,6 +648,16 @@
       "action": "LOGIN",
       "actor": "mikelganteng",
       "timestamp": "2026-10-09T07:24:07.984Z"
+    },
+    {
+      "id": "b2d6b174-bfe0-4bbc-a04e-1f536a35525f",
+      "action": "ADD_USER",
+      "actor": "mikelganteng",
+      "timestamp": "2026-10-09T07:24:29.678Z",
+      "target": "mikelz",
+      "role": "creator",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
