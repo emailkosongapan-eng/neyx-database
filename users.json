@@ -88,6 +88,14 @@
       "active": true,
       "createdAt": "2026-10-09T07:42:15.349Z",
       "createdBy": "apanzxc"
+    },
+    {
+      "username": "7633766312",
+      "passwordHash": "scrypt$958808662865c82f634a72fe0a631406$a9e21a1bb27a3d28b610e14a03696b7d606fe247fa4844adec8a0361a18921956d96056f8064580407156ac0277062a8f6e1124a4cc55d9a25ec28ab56bbeb04",
+      "role": "reseller",
+      "active": true,
+      "createdAt": "2026-10-09T10:01:38.597Z",
+      "createdBy": "mikelganteng"
     }
   ]
 }
