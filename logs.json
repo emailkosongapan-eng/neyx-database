@@ -788,6 +788,13 @@
       "action": "LOGIN",
       "actor": "8307890083",
       "timestamp": "2026-10-09T12:40:02.110Z"
+    },
+    {
+      "id": "34c1b441-efd7-4e11-8a3f-7483bba13585",
+      "action": "DELETE_USER",
+      "actor": "mikelganteng",
+      "timestamp": "2026-10-09T12:50:08.686Z",
+      "target": "1430472796"
     }
   ]
 }
