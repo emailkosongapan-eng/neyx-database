@@ -674,6 +674,16 @@
       "action": "LOGIN",
       "actor": "7331204745",
       "timestamp": "2026-10-09T07:40:38.897Z"
+    },
+    {
+      "id": "cc3afd08-7e46-4021-a77c-7e0e54076cdf",
+      "action": "ADD_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-09T07:42:16.996Z",
+      "target": "8781772616",
+      "role": "reseller",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
