@@ -658,6 +658,16 @@
       "role": "creator",
       "telegramId": "-",
       "telegramUsername": "Tidak tersedia"
+    },
+    {
+      "id": "7ee24949-20af-4855-8cd7-a36966e93247",
+      "action": "ADD_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-09T07:39:15.724Z",
+      "target": "7331204745",
+      "role": "reseller",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
