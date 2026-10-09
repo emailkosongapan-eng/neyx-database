@@ -755,6 +755,13 @@
       "action": "LOGIN",
       "actor": "7631282183",
       "timestamp": "2026-10-09T11:47:58.515Z"
+    },
+    {
+      "id": "e462f01b-e3f7-419e-8039-a0254ec55f8e",
+      "action": "DELETE_USER",
+      "actor": "mikelganteng",
+      "timestamp": "2026-10-09T12:04:26.004Z",
+      "target": "MIKELz"
     }
   ]
 }
