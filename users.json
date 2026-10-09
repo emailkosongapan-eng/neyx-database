@@ -55,6 +55,14 @@
       "active": true,
       "createdAt": "2026-10-09T07:20:35.909Z",
       "createdBy": "apanzxc"
+    },
+    {
+      "username": "mikelganteng",
+      "passwordHash": "scrypt$3b9e4a2ed1f5981362d31f999ca1463b$9fb7bb414041547b612594778f36556e47574a1b0e000632590f8ca00922846f3276a124ec2e7f30795196ff7a82bde28cdaf31526e95167813a1babdd7d0fb0",
+      "role": "creator",
+      "active": true,
+      "createdAt": "2026-10-09T07:22:31.205Z",
+      "createdBy": "apanzxc"
     }
   ]
 }
