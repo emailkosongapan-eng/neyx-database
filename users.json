@@ -106,6 +106,14 @@
       "active": true,
       "createdAt": "2026-10-09T12:37:28.667Z",
       "createdBy": "mikelganteng"
+    },
+    {
+      "username": "1430472796",
+      "passwordHash": "scrypt$ab4785bac4ac4ca0028500f513c171eb$f612fd3df8026718193163c43c2dc74097ce72b4cc60e1cfc12aaa990063cb6679928b35e582eb18afa27c7f5f5fecbf97400424509bdb39e528f869793e945b",
+      "role": "creator",
+      "active": true,
+      "createdAt": "2026-10-09T12:50:20.407Z",
+      "createdBy": "mikelganteng"
     }
   ]
 }
