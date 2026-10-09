@@ -684,6 +684,12 @@
       "role": "reseller",
       "telegramId": "-",
       "telegramUsername": "Tidak tersedia"
+    },
+    {
+      "id": "0fa7567d-c238-4b4e-a886-b8e4354da4c8",
+      "action": "LOGIN",
+      "actor": "8781772616",
+      "timestamp": "2026-10-09T07:46:21.267Z"
     }
   ]
 }
