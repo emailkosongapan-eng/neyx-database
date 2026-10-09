@@ -772,6 +772,16 @@
       "role": "creator",
       "telegramId": "-",
       "telegramUsername": "Tidak tersedia"
+    },
+    {
+      "id": "20053f67-afc9-493b-abbe-6683605bb3c9",
+      "action": "ADD_USER",
+      "actor": "mikelganteng",
+      "timestamp": "2026-10-09T12:37:30.034Z",
+      "target": "8307890083",
+      "role": "reseller",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
