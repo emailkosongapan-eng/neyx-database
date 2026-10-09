@@ -850,6 +850,16 @@
       "tokenMasked": "87310238…",
       "telegramId": "-",
       "telegramUsername": "Tidak tersedia"
+    },
+    {
+      "id": "e1ff93eb-3b7a-4970-a09d-46836b2bf215",
+      "action": "ADD_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-09T14:55:16.404Z",
+      "target": "8706623836",
+      "role": "creator",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
