@@ -623,6 +623,15 @@
       "tokenMasked": "88870286…",
       "telegramId": "-",
       "telegramUsername": "Tidak tersedia"
+    },
+    {
+      "id": "ba7823c1-c519-47ba-bece-8e2cea98cced",
+      "action": "ADD_TOKEN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-09T07:21:24.507Z",
+      "tokenMasked": "86393708…",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
