@@ -860,6 +860,12 @@
       "role": "creator",
       "telegramId": "-",
       "telegramUsername": "Tidak tersedia"
+    },
+    {
+      "id": "b867a40c-e8e1-40ed-ba76-67eaf9d49a1f",
+      "action": "LOGIN",
+      "actor": "8706623836",
+      "timestamp": "2026-10-09T15:04:04.095Z"
     }
   ]
 }
