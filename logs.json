@@ -541,6 +541,13 @@
       "action": "LOGIN",
       "actor": "ridho",
       "timestamp": "2026-10-09T05:02:20.063Z"
+    },
+    {
+      "id": "e2c2df79-56c3-408b-b49f-78a881f276d8",
+      "action": "ADD_TOKEN",
+      "actor": "ridho",
+      "timestamp": "2026-10-09T05:03:52.200Z",
+      "tokenMasked": "86514616…"
     }
   ]
 }
