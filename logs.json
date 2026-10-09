@@ -594,6 +594,16 @@
       "action": "LOGIN",
       "actor": "apanzxc",
       "timestamp": "2026-10-09T06:27:06.159Z"
+    },
+    {
+      "id": "85464f57-8218-4404-b08c-de9ba25b8e01",
+      "action": "ADD_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-09T06:28:34.510Z",
+      "target": "8746359347",
+      "role": "creator",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
