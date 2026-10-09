@@ -33,14 +33,6 @@
       "createdBy": "8042378125"
     },
     {
-      "username": "MIKELz",
-      "passwordHash": "scrypt$b5e2d03f82790f3ec1eb1cb1509cfea1$3bd60b394cb50674816b2341090dafba597ccce5f62387addd0c5ca7b9a8142b2304973138493521bd1733b58bf6ce7083935bfd36fb6b8443c44b1f26bbf7db",
-      "role": "creator",
-      "active": true,
-      "createdAt": "2026-10-05T09:15:07.302Z",
-      "createdBy": "8042378125"
-    },
-    {
       "username": "8746359347",
       "passwordHash": "scrypt$bc06839e882db80fb97b111e45d81b65$cf3cb40ad94e3419df24e9cf7a4fe0765cb54500f9bc3b107b5828b29aaf81cdc7da1a78e51e5cd35f4e344cae2bc8f8acc30937f2da64237a8a992b8dfcd8c9",
       "role": "creator",
