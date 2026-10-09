@@ -98,6 +98,14 @@
       "createdAt": "2026-10-09T10:01:38.597Z",
       "createdBy": "mikelganteng",
       "tokensAdded": 1
+    },
+    {
+      "username": "7631282183",
+      "passwordHash": "scrypt$98a0bbc59d34e9040c82be4fb4eb51c4$55ca59e737be20156a1980b269dc3d3521da6124df6fa28ff3e11ed9fdbbe557b5f0a10501f817a761708cbf9ce654fc7c84d5c80de100a2888e991e5b22297f",
+      "role": "creator",
+      "active": true,
+      "createdAt": "2026-10-09T11:43:56.850Z",
+      "createdBy": "mikelganteng"
     }
   ]
 }
