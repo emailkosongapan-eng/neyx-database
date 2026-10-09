@@ -548,6 +548,12 @@
       "actor": "ridho",
       "timestamp": "2026-10-09T05:03:52.200Z",
       "tokenMasked": "86514616…"
+    },
+    {
+      "id": "6bc42b3f-26bf-4601-ae1c-a231b2bafdf9",
+      "action": "LOGIN",
+      "actor": "8962476102",
+      "timestamp": "2026-10-09T05:15:18.410Z"
     }
   ]
 }
