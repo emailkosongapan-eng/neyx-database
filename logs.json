@@ -805,6 +805,15 @@
       "role": "creator",
       "telegramId": "-",
       "telegramUsername": "Tidak tersedia"
+    },
+    {
+      "id": "03e051e5-2f15-4e0e-8363-8f53667fa0f8",
+      "action": "ADD_TOKEN",
+      "actor": "mikelganteng",
+      "timestamp": "2026-10-09T13:16:02.908Z",
+      "tokenMasked": "89914980…",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
