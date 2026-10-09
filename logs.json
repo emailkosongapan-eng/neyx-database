@@ -632,6 +632,16 @@
       "tokenMasked": "86393708…",
       "telegramId": "-",
       "telegramUsername": "Tidak tersedia"
+    },
+    {
+      "id": "e5984012-3018-41d4-b10c-e59671f244af",
+      "action": "ADD_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-09T07:22:32.686Z",
+      "target": "mikelganteng",
+      "role": "creator",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
