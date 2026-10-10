@@ -875,6 +875,12 @@
       "tokenMasked": "88919680…",
       "telegramId": "-",
       "telegramUsername": "Tidak tersedia"
+    },
+    {
+      "id": "493c6d25-53f1-43ba-819e-e4c07916eaed",
+      "action": "LOGIN",
+      "actor": "mikelz",
+      "timestamp": "2026-10-10T00:45:55.793Z"
     }
   ]
 }
