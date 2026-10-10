@@ -980,6 +980,13 @@
       "action": "LOGIN",
       "actor": "mikelz",
       "timestamp": "2026-10-10T06:05:57.161Z"
+    },
+    {
+      "id": "eda10104-6151-432d-a627-6c3ddda0f759",
+      "action": "DELETE_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-10T10:07:21.631Z",
+      "target": "mikelz"
     }
   ]
 }
