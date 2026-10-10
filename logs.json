@@ -950,6 +950,15 @@
       "action": "LOGIN",
       "actor": "mikelz",
       "timestamp": "2026-10-10T05:01:04.509Z"
+    },
+    {
+      "id": "dba85db9-c1cf-4c88-9414-ed41e1351897",
+      "action": "ADD_TOKEN",
+      "actor": "mikelz",
+      "timestamp": "2026-10-10T05:01:11.883Z",
+      "tokenMasked": "88861726…",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
