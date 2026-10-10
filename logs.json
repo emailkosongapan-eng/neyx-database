@@ -896,6 +896,15 @@
       "action": "LOGIN",
       "actor": "7331204745",
       "timestamp": "2026-10-10T02:16:05.854Z"
+    },
+    {
+      "id": "b5b2f25b-9560-4cb4-aa66-8a5ffa390577",
+      "action": "ADD_TOKEN",
+      "actor": "7331204745",
+      "timestamp": "2026-10-10T02:16:33.826Z",
+      "tokenMasked": "88814033…",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
