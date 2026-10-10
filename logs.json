@@ -1073,6 +1073,13 @@
       "timestamp": "2026-10-10T14:49:45.528Z",
       "target": "tes",
       "role": "owner"
+    },
+    {
+      "id": "c3fee508-5ae1-45f8-91c4-0a97dc066be9",
+      "action": "DELETE_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-10T14:50:02.310Z",
+      "target": "tes"
     }
   ]
 }
