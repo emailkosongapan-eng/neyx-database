@@ -920,6 +920,12 @@
       "tokenMasked": "87472178…",
       "telegramId": "-",
       "telegramUsername": "Tidak tersedia"
+    },
+    {
+      "id": "d2ae4014-e7ad-4276-a14a-40e7abf6d55b",
+      "action": "LOGIN",
+      "actor": "1430472796",
+      "timestamp": "2026-10-10T03:15:19.818Z"
     }
   ]
 }
