@@ -905,6 +905,12 @@
       "tokenMasked": "88814033…",
       "telegramId": "-",
       "telegramUsername": "Tidak tersedia"
+    },
+    {
+      "id": "3700dc9a-f999-4d1c-9a24-29562793b2e0",
+      "action": "LOGIN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-10T03:05:00.212Z"
     }
   ]
 }
