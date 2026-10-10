@@ -1029,6 +1029,13 @@
       "actor": "apanzxc",
       "timestamp": "2026-10-10T13:51:59.120Z",
       "target": "8944890162"
+    },
+    {
+      "id": "4e878aff-967e-41ac-974a-ee695e01e401",
+      "action": "DELETE_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-10T13:52:07.661Z",
+      "target": "mekszxz"
     }
   ]
 }
