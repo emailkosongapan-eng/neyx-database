@@ -49,14 +49,6 @@
       "createdBy": "apanzxc"
     },
     {
-      "username": "mikelz",
-      "passwordHash": "scrypt$1d872bc3bfe47cef398b75d6a0210499$6ab4351e78d1bd00824660dac8c600b1c6ba6c19ece5482fef5246d83380351c28e1817932a1b71fed98ce1e29341f0313f7b249a13f0e3fa563567baf74a8fb",
-      "role": "creator",
-      "active": true,
-      "createdAt": "2026-10-09T07:24:28.317Z",
-      "createdBy": "mikelganteng"
-    },
-    {
       "username": "7331204745",
       "passwordHash": "scrypt$3fb550380d00865541ae676e8b26b6a1$249fcff4e9e56edb9f7c93827a0aae988e00ff9505e1379dd588677da9eeef8f09a92e5f1debffb5074b05b083d8fa02f7f4eca3b355fb2509e0fa0f57abb391",
       "role": "reseller",
