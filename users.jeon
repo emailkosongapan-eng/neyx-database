@@ -8,14 +8,6 @@
       "createdAt": "2026-10-06T07:47:57.882Z"
     },
     {
-      "username": "mikelz",
-      "passwordHash": "scrypt$447827d59d3b1a9c9400af8d1ebb7b8e$5f7fa446933e42c657bc12f96314d7086210ce6f24210332e9e6fe0c5cacd956dab6aed84e6d6ee4ceafb0230fc1285f0be45e07bbab623e776f1d7ac5142e62",
-      "role": "creator",
-      "active": true,
-      "createdAt": "2026-10-06T08:57:49.120Z",
-      "createdBy": "apanzxc"
-    },
-    {
       "username": "mekszxz",
       "passwordHash": "scrypt$0295ce94576b900b3fb2f60aea29fe94$6faef3c019fbdbecb27d4b395d4a8966177abd293bf0eaddac694f5330b4f3f4f02b7d67ea92cd211594780d297f1507bd084e3981be9718489eec92ae6a21c5",
       "role": "reseller",
