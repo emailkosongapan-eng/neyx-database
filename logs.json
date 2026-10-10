@@ -987,6 +987,15 @@
       "actor": "apanzxc",
       "timestamp": "2026-10-10T10:07:21.631Z",
       "target": "mikelz"
+    },
+    {
+      "id": "466fd3af-95ad-44cb-b8a9-f93b79189639",
+      "action": "ADD_TOKEN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-10T10:07:31.680Z",
+      "tokenMasked": "89885160…",
+      "telegramId": "-",
+      "telegramUsername": "Tidak tersedia"
     }
   ]
 }
