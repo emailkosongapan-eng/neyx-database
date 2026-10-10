@@ -22,6 +22,14 @@
       "active": true,
       "createdAt": "2026-10-10T14:49:41.043Z",
       "createdBy": "mikelz"
+    },
+    {
+      "username": "tes",
+      "passwordHash": "scrypt$a1f5dd76e07080d99051c48d7080aeab$7f35619cefda8382569711b2224f289417d72ac1e1f22a79d0ea250ef4e1e4582bb335d98dbf7205dd08a1573a885b29cea2b16ff02bf335dca4dd4d4352f600",
+      "role": "owner",
+      "active": true,
+      "createdAt": "2026-10-10T14:49:42.338Z",
+      "createdBy": "apanzxc"
     }
   ]
 }
