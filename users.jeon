@@ -6,15 +6,6 @@
       "role": "creator",
       "active": true,
       "createdAt": "2026-10-06T07:47:57.882Z"
-    },
-    {
-      "username": "ridho",
-      "passwordHash": "scrypt$0ae5b995fe7ba067a0a36adc46fe99cb$73cf6e807dd532e419848be611aa8fb86fe213a5c5fe47fe0939d99fa7b88a6cbdd5e0aabfaee888dcef39cd84f24b7f9bc18b1847635abc676985698807f7db",
-      "role": "reseller",
-      "active": true,
-      "createdAt": "2026-10-08T07:57:15.925Z",
-      "createdBy": "mikelz",
-      "tokensAdded": 4
     }
   ]
 }
