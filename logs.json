@@ -1162,6 +1162,14 @@
       "actor": "8944890162",
       "timestamp": "2026-10-11T02:03:09.356Z",
       "tokenMasked": "89850922…"
+    },
+    {
+      "id": "7570f43e-701d-4954-a20b-f6dde2bc236c",
+      "action": "ADD_USER",
+      "actor": "mikelz",
+      "timestamp": "2026-10-11T02:45:45.583Z",
+      "target": "8771842671",
+      "role": "reseller"
     }
   ]
 }
