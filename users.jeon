@@ -22,6 +22,14 @@
       "active": true,
       "createdAt": "2026-10-10T14:49:41.043Z",
       "createdBy": "mikelz"
+    },
+    {
+      "username": "8944890162",
+      "passwordHash": "scrypt$92dd5837ef130f36aa1532f360c41a4f$24d32263fa9e9cb7d06e13bd4f0d6665c8182bd4914fd1b7f94b025e5ad199ec14ed7d2b7a1fe2b124d7b37e528470682c33d48df25d7cfafbe8601bf13e413c",
+      "role": "creator",
+      "active": true,
+      "createdAt": "2026-10-11T02:00:59.322Z",
+      "createdBy": "apanzxc"
     }
   ]
 }
