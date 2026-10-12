@@ -1243,6 +1243,14 @@
       "actor": "apanzxc",
       "timestamp": "2026-10-12T14:06:07.466Z",
       "tokenMasked": "89523684…"
+    },
+    {
+      "id": "9a9b6b87-c73e-4729-8541-94d2ff71e952",
+      "action": "ADD_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-12T14:09:01.010Z",
+      "target": "8962476102",
+      "role": "reseller"
     }
   ]
 }
