@@ -61,7 +61,8 @@
       "role": "reseller",
       "active": true,
       "createdAt": "2026-10-12T14:08:58.877Z",
-      "createdBy": "apanzxc"
+      "createdBy": "apanzxc",
+      "tokensAdded": 1
     }
   ]
 }
