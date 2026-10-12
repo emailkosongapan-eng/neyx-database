@@ -1272,6 +1272,12 @@
       "timestamp": "2026-10-12T14:13:17.591Z",
       "target": "7633766312",
       "role": "reseller"
+    },
+    {
+      "id": "1a3fc8be-db82-46ab-89a1-ad9ac4e404a4",
+      "action": "LOGIN",
+      "actor": "7633766312",
+      "timestamp": "2026-10-12T14:13:59.932Z"
     }
   ]
 }
