@@ -63,6 +63,14 @@
       "createdAt": "2026-10-12T14:08:58.877Z",
       "createdBy": "apanzxc",
       "tokensAdded": 1
+    },
+    {
+      "username": "7633766312",
+      "passwordHash": "scrypt$f5ad5f73c8d420341864583bea4f5008$8c6e465df2f6a4f3d602450e8f2e4709d0334ae4c10c97485968f949cf499f0d593df8594d6fb77525021774a878e3f6a7f05f5a605e13e770b31da9a2d4d431",
+      "role": "reseller",
+      "active": true,
+      "createdAt": "2026-10-12T14:13:15.410Z",
+      "createdBy": "apanzxc"
     }
   ]
 }
