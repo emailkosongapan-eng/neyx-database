@@ -1196,6 +1196,12 @@
       "actor": "mikelz",
       "timestamp": "2026-10-12T08:03:05.799Z",
       "tokenMasked": "88003287…"
+    },
+    {
+      "id": "3a1fc708-b131-4a73-9bd3-5fe88730222c",
+      "action": "LOGIN",
+      "actor": "mikelz",
+      "timestamp": "2026-10-12T13:29:15.555Z"
     }
   ]
 }
