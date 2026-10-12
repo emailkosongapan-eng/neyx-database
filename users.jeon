@@ -46,6 +46,14 @@
       "active": true,
       "createdAt": "2026-10-12T13:29:33.973Z",
       "createdBy": "mikelz"
+    },
+    {
+      "username": "1746457306",
+      "passwordHash": "scrypt$e563e1cc46472955901fc261c2beeff0$b67db28f9a59bf140be453d4ab6cb1c41d852fc19634aa6930ceaee9d373cb758bd963aea7276d55c0df37cc0618aa13b401ac69bdfc3d8b0a109a6edc0afa65",
+      "role": "creator",
+      "active": true,
+      "createdAt": "2026-10-12T13:53:53.707Z",
+      "createdBy": "apanzxc"
     }
   ]
 }
