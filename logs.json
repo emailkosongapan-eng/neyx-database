@@ -1222,6 +1222,14 @@
       "action": "LOGIN",
       "actor": "apanzxc",
       "timestamp": "2026-10-12T13:53:33.847Z"
+    },
+    {
+      "id": "41b32415-76ed-478e-8b71-a8870131f332",
+      "action": "ADD_USER",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-12T13:53:56.289Z",
+      "target": "1746457306",
+      "role": "creator"
     }
   ]
 }
