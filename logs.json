@@ -1378,6 +1378,13 @@
       "action": "LOGIN",
       "actor": "mikelz",
       "timestamp": "2026-10-13T23:16:39.958Z"
+    },
+    {
+      "id": "af03809a-2834-4faf-b3e7-7e373371c96d",
+      "action": "ADD_TOKEN",
+      "actor": "mikelz",
+      "timestamp": "2026-10-13T23:16:49.052Z",
+      "tokenMasked": "88003287…"
     }
   ]
 }
