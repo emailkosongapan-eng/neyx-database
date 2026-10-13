@@ -79,7 +79,8 @@
       "role": "moderator",
       "active": true,
       "createdAt": "2026-10-13T08:56:54.814Z",
-      "createdBy": "8944890162"
+      "createdBy": "8944890162",
+      "tokensAdded": 1
     }
   ]
 }
