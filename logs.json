@@ -1311,6 +1311,14 @@
       "action": "LOGIN",
       "actor": "8944890162",
       "timestamp": "2026-10-13T08:55:25.816Z"
+    },
+    {
+      "id": "64321c18-8386-4bcb-961b-e85f9e248647",
+      "action": "ADD_USER",
+      "actor": "8944890162",
+      "timestamp": "2026-10-13T08:56:56.341Z",
+      "target": "7642317196",
+      "role": "moderator"
     }
   ]
 }
