@@ -88,7 +88,8 @@
       "role": "reseller",
       "active": true,
       "createdAt": "2026-10-14T13:41:18.639Z",
-      "createdBy": "mikelz"
+      "createdBy": "mikelz",
+      "tokensAdded": 1
     }
   ]
 }
