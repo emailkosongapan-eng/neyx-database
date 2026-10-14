@@ -1430,6 +1430,13 @@
       "action": "LOGIN",
       "actor": "6260391811",
       "timestamp": "2026-10-14T14:02:45.631Z"
+    },
+    {
+      "id": "100a0b1f-6bbf-43b7-862d-56415f1dc33a",
+      "action": "ADD_TOKEN",
+      "actor": "6260391811",
+      "timestamp": "2026-10-14T14:03:51.326Z",
+      "tokenMasked": "88738957…"
     }
   ]
 }
