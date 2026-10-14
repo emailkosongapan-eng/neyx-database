@@ -1416,6 +1416,14 @@
       "action": "LOGIN",
       "actor": "mikelz",
       "timestamp": "2026-10-14T13:40:58.807Z"
+    },
+    {
+      "id": "d7e70070-e2f4-4ac4-bebe-6d09ec7a193c",
+      "action": "ADD_USER",
+      "actor": "mikelz",
+      "timestamp": "2026-10-14T13:41:21.859Z",
+      "target": "6260391811",
+      "role": "reseller"
     }
   ]
 }
