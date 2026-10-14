@@ -1424,6 +1424,12 @@
       "timestamp": "2026-10-14T13:41:21.859Z",
       "target": "6260391811",
       "role": "reseller"
+    },
+    {
+      "id": "6bdd71f3-f341-4368-a597-bfb9d73bebf4",
+      "action": "LOGIN",
+      "actor": "6260391811",
+      "timestamp": "2026-10-14T14:02:45.631Z"
     }
   ]
 }
