@@ -1397,6 +1397,13 @@
       "action": "LOGIN",
       "actor": "mikelz",
       "timestamp": "2026-10-14T13:03:39.573Z"
+    },
+    {
+      "id": "9188e2c6-2b27-4e01-8cb4-e66c75dbd4e1",
+      "action": "ADD_TOKEN",
+      "actor": "mikelz",
+      "timestamp": "2026-10-14T13:03:59.301Z",
+      "tokenMasked": "88321426…"
     }
   ]
 }
