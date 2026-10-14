@@ -81,6 +81,14 @@
       "createdAt": "2026-10-13T08:56:54.814Z",
       "createdBy": "8944890162",
       "tokensAdded": 3
+    },
+    {
+      "username": "6260391811",
+      "passwordHash": "scrypt$00e8df298232fba9965aee640e2574b7$2be49dc322c476d55ddbe9456397af2b61ace9f38dc2c5e82de5fb167d2d7fe90f0a3ee8e2e500a7703f16f2d6ffba4a12459f69d12a862c63c0d63757daadcb",
+      "role": "reseller",
+      "active": true,
+      "createdAt": "2026-10-14T13:41:18.639Z",
+      "createdBy": "mikelz"
     }
   ]
 }
