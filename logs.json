@@ -1501,6 +1501,13 @@
       "action": "LOGIN",
       "actor": "apanzxc",
       "timestamp": "2026-10-15T13:59:47.466Z"
+    },
+    {
+      "id": "99cdf1a7-df13-458b-8024-7b4fb13cf182",
+      "action": "ADD_TOKEN",
+      "actor": "apanzxc",
+      "timestamp": "2026-10-15T14:00:09.061Z",
+      "tokenMasked": "87767525…"
     }
   ]
 }
